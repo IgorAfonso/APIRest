@@ -1,0 +1,6 @@
+Componentes necessários:
+
+DOT NET 
+Visual Studio
+MYSQL
+Postman app
